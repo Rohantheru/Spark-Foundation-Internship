@@ -1,1 +1,1 @@
-# Spark-Foundation-Internship
+# Sparks-Foundation-Internship
